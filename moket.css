@@ -106,18 +106,16 @@ a{
     margin-right: 240px;
 }
 table, th, td{
-
+    margin-top: 50px;
     border: 2px;
     border-style:solid;
     border-collapse: collapse;
     text-align: center;
     font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .im{
-    width: 50%;
-    margin-right: 280px;
-    height: 600px;
-    margin-top: 25px;
+    height: 200px;
     border-radius: 20px;
 }
 b{
@@ -127,6 +125,7 @@ b{
 .p{
     font-size: 22px;
     margin: 50px;
+    margin-bottom: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .imd{
@@ -170,5 +169,8 @@ button:hover {
 }
 .nav_text:hover{
     opacity: 0.7;
+}
+.button{
+    margin-top: 20px;
 }
 

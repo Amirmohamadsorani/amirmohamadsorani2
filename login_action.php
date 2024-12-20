@@ -1,6 +1,6 @@
 
 <?php
-include("header.html");
+include("tag_a.html");
 ?>
 
 <?php
@@ -16,5 +16,5 @@ if(isset($_POST["username"]) && !empty($_POST["username"])
 ?>
 
 <?php
-include("footer.html");
+include("footer2.html");
 ?>
